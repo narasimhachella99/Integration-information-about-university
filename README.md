@@ -1,4 +1,4 @@
-# TK-112550-Integration Information About University
+# Integration Information About University
 
 ***
 ## Used Technologies
